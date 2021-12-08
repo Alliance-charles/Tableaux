@@ -1,0 +1,14 @@
+body {
+  background: white;
+}
+table {
+  border-collapse: collapse;
+  background-color: pink;
+  margin: 50px;
+}
+td,
+th {
+  border: 1px black solid;
+  padding: 5px;
+  text-align: center;
+}
